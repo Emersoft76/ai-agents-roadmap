@@ -69,6 +69,14 @@
 
 ---
 
+## 🔁 Typical Workflow | Fluxo de Trabalho Típico
+
+```text
+Data Collection → Preprocessing → Model Training → Evaluation → Deployment
+Coleta de Dados → Pré-processamento → Treinamento do Modelo → Avaliação → Implantação
+```
+---
+
 ## 🧭 Summary
 
 > Machine Learning powers intelligent decision-making across industries. Whether classifying images or predicting trends, mastering ML foundations is key for modern AI systems.
