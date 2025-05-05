@@ -1,7 +1,7 @@
 # 🧠 AI Agents Roadmap | Roteiro de Agentes de IA
 
-A structured and bilingual roadmap to help you master the world of AI Agents—from the basics of machine learning and GenAI to scalable multi-agent orchestration in production environments.  
-Um roteiro estruturado e bilíngue para você dominar o universo dos Agentes de IA — desde os fundamentos de machine learning e GenAI até a orquestração escalável de múltiplos agentes em ambientes de produção.
+* A structured and bilingual roadmap to help you master the world of AI Agents—from the basics of machine learning and GenAI to scalable multi-agent orchestration in production environments.  
+* Um roteiro estruturado e bilíngue para você dominar o universo dos Agentes de IA — desde os fundamentos de machine learning e GenAI até a orquestração escalável de múltiplos agentes em ambientes de produção.
 
 ---
 
@@ -59,8 +59,8 @@ Um roteiro estruturado e bilíngue para você dominar o universo dos Agentes de 
 
 ## 🤖 Project Scope | Escopo do Projeto
 
-This repository provides a progressive and didactic structure for learning how to build AI agents that interact, reason, recall, and operate autonomously or collaboratively.  
-Este repositório oferece uma estrutura progressiva e didática para aprender a construir agentes de IA que interagem, raciocinam, memorizam e operam de forma autônoma ou colaborativa.
+* This repository provides a progressive and didactic structure for learning how to build AI agents that interact, reason, recall, and operate autonomously or collaboratively.  
+* Este repositório oferece uma estrutura progressiva e didática para aprender a construir agentes de IA que interagem, raciocinam, memorizam e operam de forma autônoma ou colaborativa.
 
 ---
 
