@@ -81,11 +81,14 @@ npx tsc --init
 ## 🧠 Summary
 
 * Python is the go-to language for ML models, training, and backend AI pipelines.
+  
 * Python é ideal para modelos de ML, treinamento e pipelines de IA no backend.
 
 * TypeScript shines in frontend apps and real-time AI integrations.
+  
 * TypeScript brilha nas aplicações frontend e integrações de IA em tempo real.
 
 * Use both when needed!
+  
 * Use ambos conforme necessário!
 ---
