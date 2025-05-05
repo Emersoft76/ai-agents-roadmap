@@ -60,6 +60,6 @@ Engenharia de Prompt é a prática de projetar e otimizar entradas (prompts) par
 
 ## ✅ Summary | Resumo
 
-Prompt engineering is not just crafting commands—it’s designing conversations. With proper technique, it dramatically improves the relevance, accuracy, and creativity of LLM responses.
+* Prompt engineering is not just crafting commands—it’s designing conversations. With proper technique, it dramatically improves the relevance, accuracy, and creativity of LLM responses.
 
-> Engenharia de Prompt não é apenas escrever comandos—é projetar conversas. Com a técnica certa, melhora significativamente a relevância, precisão e criatividade das respostas dos modelos.
+* Engenharia de Prompt não é apenas escrever comandos—é projetar conversas. Com a técnica certa, melhora significativamente a relevância, precisão e criatividade das respostas dos modelos.
