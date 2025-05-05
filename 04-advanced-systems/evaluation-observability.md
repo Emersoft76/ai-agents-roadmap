@@ -1,57 +1,51 @@
-# 📊 Evaluation & Observability  
-# 📊 Avaliação & Observabilidade
+# 📊 Evaluation & Observability | Avaliação e Observabilidade
+
+> Evaluating and monitoring AI agent performance is crucial for reliability, improvement, and debugging.  
+> Avaliar e monitorar o desempenho de agentes de IA é essencial para confiabilidade, melhorias e depuração.
 
 ---
 
-## 🇬🇧 Why It Matters
+## 📏 Evaluation Metrics
 
-AI agents are non-deterministic and can evolve over time. Evaluation ensures they're producing reliable results. Observability lets you monitor, debug, and optimize behavior in production.
-
----
-
-## 🇧🇷 Por Que Isso Importa
-
-Agentes de IA são não determinísticos e podem evoluir com o tempo. A avaliação garante que estejam produzindo resultados confiáveis. Observabilidade permite monitorar, depurar e otimizar o comportamento em produção.
-
----
-
-## 🧪 Evaluation Techniques | Técnicas de Avaliação
-
-| Technique (EN)        | Técnica (PT)                       |
-|-----------------------|------------------------------------|
-| Human Feedback        | Feedback humano                    |
-| Task Completion Rate  | Taxa de conclusão de tarefas       |
-| Prompt-Based Tests    | Testes baseados em prompts         |
-| Comparison Metrics    | Métricas de comparação             |
-| LLM-as-a-Judge        | LLM como juiz avaliador            |
+| Metric (EN) | Métrica (PT)  | Description (EN/PT)                                       |
+|-------------|----------------|-----------------------------------------------------------|
+| Accuracy    | Acurácia       | Measures correctness / Mede a exatidão das respostas      |
+| Coherence   | Coerência      | Evaluates logical flow / Avalia o encadeamento lógico     |
+| Relevance   | Relevância     | Checks if output is on-topic / Verifica se é pertinente   |
+| Factuality  | Factualidade   | Verifies truth / Verifica a veracidade                    |
+| Efficiency  | Eficiência     | Measures response time / Mede tempo de resposta           |
 
 ---
 
-## 🔍 Observability Tools | Ferramentas de Observabilidade
+## 🧪 Tools & Techniques
 
-| Tool (EN)     | Ferramenta (PT)         | Description (EN / PT)                                     |
-|---------------|--------------------------|------------------------------------------------------------|
-| LangSmith     | LangSmith                | Logging and tracing for LangChain agents / Log e rastreamento |
-| PromptLayer   | PromptLayer              | Monitor LLM calls and prompt histories / Monitoramento de chamadas de LLM |
-| Traceloop     | Traceloop                | Visual traces of agent workflows / Rastreamento visual de agentes |
-| Phoenix       | Phoenix                  | LLM observability + error handling / Observabilidade e tratamento de erros |
-
----
-
-## 📈 Metrics to Track | Métricas para Monitorar
-
-- Task success rate  
-- Response latency  
-- Cost per call  
-- Tool usage patterns  
-- Prompt drift or decay  
-
-> *🇧🇷 Taxa de sucesso, latência, custo por chamada, padrões de uso, desgaste de prompts*
+| Tool / Technique       | Description (EN)                 | Descrição (PT)                          |
+|------------------------|----------------------------------|-----------------------------------------|
+| Human feedback         | Ratings or comparisons           | Avaliações ou comparações humanas       |
+| Model-based evaluators | Use another LLM to score/explain | Usa outro LLM para avaliar ou explicar  |
+| Benchmarks             | e.g., AgentBench, HELM, MMLU     | Ex: AgentBench, HELM, MMLU              |
+| Logging & tracing      | Log input/output chains          | Registro de entradas/saídas encadeadas  |
+| Telemetry              | Usage metrics                    | Métricas de uso                         |
 
 ---
 
-## ✅ Summary | Resumo
+## 🔍 Observability Features
 
-You can't improve what you don't measure. Combining evaluation with observability gives your agents transparency, trust, and better performance.
+| Feature (EN)           | Recurso (PT)                |
+|------------------------|-----------------------------|
+| Input/output logging   | Registro de entrada/saída   |
+| Trace visualization    | Visualização de execução    |
+| Token counting         | Contagem de tokens          |
+| Model diagnostics      | Diagnóstico do modelo       |
+| Latency tracking       | Rastreamento de latência    |
 
-> Você não pode melhorar o que não mede. Avaliação combinada com observabilidade traz transparência, confiança e melhor desempenho para seus agentes.
+---
+
+## 🧠 Summary | Resumo
+
+> Robust observability enables trust and accountability in AI agents. Evaluation methods ensure consistent quality and improvement.  
+> Uma boa observabilidade permite confiança e responsabilidade nos agentes de IA. Métodos de avaliação garantem qualidade e melhorias contínuas.
+
+---
+
+⬅️ Back to [`multi-agents.md`](multi-agents.md)
