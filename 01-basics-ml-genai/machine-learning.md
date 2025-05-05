@@ -48,15 +48,15 @@
 
 ---
 
-## 🌐 Real-World Use Cases
+## 🎯 Real-World Applications | Aplicações Reais
 
-| Domain | Applications |
-|--------|--------------|
-| Healthcare | Disease diagnosis, drug discovery |
-| Finance   | Fraud detection, stock prediction |
-| Retail    | Recommendation systems, customer churn prediction |
-| NLP       | Text classification, sentiment analysis |
-| IoT       | Predictive maintenance, anomaly detection |
+| Use Case (EN)              | Caso de Uso (PT)              |
+|---------------------------|-------------------------------|
+| Predictive Analytics      | Análise Preditiva             |
+| Recommendation Systems    | Sistemas de Recomendação      |
+| Anomaly Detection         | Detecção de Anomalias         |
+| Image/Voice Recognition   | Reconhecimento de Imagem/Voz  |
+| Forecasting               | Previsão de Tendências        |
 
 ---
 
