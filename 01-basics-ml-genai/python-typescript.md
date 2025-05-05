@@ -115,6 +115,23 @@ npx tsc --init
 
 ---
 
+## ⚙️ Suggested Setup | Configuração Sugerida
+
+**Python**  
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+pip install openai langchain
+```
+**TypeScript**
+```bash
+npm init -y
+npm install typescript ts-node @types/node
+npx tsc --init
+```
+---
+
 ## 🧠 Summary
 
 > **Python** is the go-to language for ML models, training, and backend AI pipelines.  
