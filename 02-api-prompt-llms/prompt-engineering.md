@@ -28,15 +28,11 @@ Engenharia de Prompt é a prática de projetar e otimizar entradas (prompts) par
 
 ## ⚙️ Prompt Engineering Process | Processo de Engenharia de Prompt
 
-1. **Define the Goal**  
-   *🇧🇷 Defina o objetivo*  
-2. **Choose the Right Strategy**  
-   *🇧🇷 Escolha a estratégia adequada*  
-3. **Iterate and Refine**  
-   *🇧🇷 Itere e refine os prompts*  
-4. **Test with LLMs**  
-   *🇧🇷 Teste com modelos de linguagem*
-
+1. **Define the Goal | Defina o objetivo**
+2. **Choose the Right Strategy | Escolha a estratégia adequada**  
+3. **Iterate and Refine | Itere e refine os prompts**  
+4. **Test with LLMs | Teste com modelos de linguagem**  
+   
 ---
 
 ## 🧪 Example | Exemplo
