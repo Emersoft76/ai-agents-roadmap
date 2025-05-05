@@ -79,9 +79,9 @@ Coleta de Dados → Pré-processamento → Treinamento do Modelo → Avaliação
 
 ## 🧭 Summary
 
-> Machine Learning powers intelligent decision-making across industries. Whether classifying images or predicting trends, mastering ML foundations is key for modern AI systems.
+* Machine Learning powers intelligent decision-making across industries. Whether classifying images or predicting trends, mastering ML foundations is key for modern AI systems.
 
-> Machine Learning impulsiona decisões inteligentes em diversos setores. Seja classificando imagens ou prevendo tendências, dominar os fundamentos de ML é essencial para sistemas de IA modernos.
+* Machine Learning impulsiona decisões inteligentes em diversos setores. Seja classificando imagens ou prevendo tendências, dominar os fundamentos de ML é essencial para sistemas de IA modernos.
 
 ---
 
