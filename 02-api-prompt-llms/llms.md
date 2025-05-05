@@ -60,6 +60,6 @@ LLMs (Modelos de Linguagem de Grande Escala) são modelos de IA treinados com gr
 
 ## ✅ Conclusion | Conclusão
 
-* LLMs are transforming the way we interact with technology—powering chatbots, smart assistants, development tools, and decision-making systems. Understanding their strengths and limitations is key to building impactful AI solutions.
+* LLMs are transforming the way we interact with technology, powering chatbots, smart assistants, development tools, and decision-making systems. Understanding their strengths and limitations is key to building impactful AI solutions.
 
-* LLMs estão transformando a forma como interagimos com a tecnologia—impulsionando chatbots, assistentes inteligentes, ferramentas de desenvolvimento e sistemas de decisão. Entender seus pontos fortes e limitações é essencial para construir soluções de IA com impacto.
+* LLMs estão transformando a forma como interagimos com a tecnologia, impulsionando chatbots, assistentes inteligentes, ferramentas de desenvolvimento e sistemas de decisão. Entender seus pontos fortes e limitações é essencial para construir soluções de IA com impacto.
