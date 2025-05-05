@@ -66,11 +66,11 @@
 
 ## 🤝 Contributions | Contribuições
 
-Have a suggestion? Open an [issue](https://github.com/Emersoft76/ai-agents-roadmap/issues) or send a PR.  
-Tem uma sugestão? Abra uma [issue](https://github.com/Emersoft76/ai-agents-roadmap/issues) ou envie um PR.
+* Have a suggestion? Open an [issue](https://github.com/Emersoft76/ai-agents-roadmap/issues) or send a PR.  
+* Tem uma sugestão? Abra uma [issue](https://github.com/Emersoft76/ai-agents-roadmap/issues) ou envie um PR.
 
-> This project is open and collaborative. Feel free to fork and adapt!  
-> Este projeto é aberto e colaborativo. Fique à vontade para fazer fork e adaptar!
+* This project is open and collaborative. Feel free to fork and adapt!  
+* Este projeto é aberto e colaborativo. Fique à vontade para fazer fork e adaptar!
 
 ---
 
