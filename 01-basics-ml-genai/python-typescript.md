@@ -71,10 +71,17 @@ npx tsc --init
 ```
 ---
 
+## 🔄 Interoperability Example | Exemplo de Interoperabilidade
+
+* You can use Python to build your AI agent backend and expose it via FastAPI, while TypeScript consumes it on the frontend with React.
+
+* Use Python com FastAPI para criar um backend de IA e consuma com TypeScript e React no frontend.
+---
+
 ## 🧠 Summary
 
-* Python is the go-to language for ML models, training, and backend AI pipelines.  
-* TypeScript shines in frontend apps and real-time AI integrations. Use both when needed!
+* Python is the go-to language for ML models, training, and backend AI pipelines | Python é ideal para modelos de ML, treinamento e pipelines de IA no backend
+* TypeScript shines in frontend apps and real-time AI integrations. Use both when needed | TypeScript brilha nas aplicações frontend e integrações de IA em tempo real. Use ambos conforme necessário!
 
 
 * Python é ideal para modelos de ML, treinamento e pipelines de IA no backend.  
